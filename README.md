@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,This is Achyut Srivastava</h1>
-<h3 align="center">A passionate SDET with 7+ years of expereince currently working at Verisk Analytics</h3>
+<h3 align="center">A passionate SDET with 7+ years of experience currently working at Verisk Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyut635&label=Profile%20views&color=0e75b6&style=flat" alt="achyut635" /> 
 
