@@ -5,8 +5,6 @@
 
 --> Here you will find projects on Data Analysis, Software testing, Automation, Machine learning and AI!!!!!
 
---> Currently I'm trying to learn building Machine learning models</p>
-
 <h3 align="left">You can connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/achyutsrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achyutsrivastava" height="30" width="40" /></a>
